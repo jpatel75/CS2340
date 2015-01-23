@@ -35,7 +35,7 @@ public class Person1 {
       }
       String front = input.substring(0,2);
       return input.substring(2) + front;
-	}
+    }
 	
 	/**
 	 * Return a string rep of this object
