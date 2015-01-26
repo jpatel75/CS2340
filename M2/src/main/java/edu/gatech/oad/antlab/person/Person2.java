@@ -47,7 +47,7 @@ public class Person2 {
             size--;
         }
 
-        return random;
+        return random + " ";
 	}
 	/**
 	 * Return a string rep of this object
