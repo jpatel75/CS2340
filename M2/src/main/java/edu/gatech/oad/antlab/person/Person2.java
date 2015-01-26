@@ -1,11 +1,12 @@
 package edu.gatech.oad.antlab.person;
+import java.util.*;
 
 /**
  *  A simple class for person 2
  *  returns their name and a
  *  modified string 
  *
- * @author Jay
+ * @author Jay Patel
  * @version 1.1
  */
 public class Person2 {
@@ -37,7 +38,7 @@ public class Person2 {
 
         Random rand = new Random();
 
-        while (original != "" && size > 0) {
+        while (!original.equals("") && size > 0) {
 
             int spot = rand.nextInt(size);
             char c = original.charAt(spot);
@@ -46,7 +47,7 @@ public class Person2 {
             size--;
         }
 
-        return random;
+        return random + " ";
 	}
 	/**
 	 * Return a string rep of this object
