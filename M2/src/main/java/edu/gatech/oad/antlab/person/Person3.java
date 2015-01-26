@@ -4,7 +4,7 @@ package edu.gatech.oad.antlab.person;
  *  returns their name and a
  *  reversed string 
  *  
- *  @author  Jayden
+ *  @author  Jayden Gardiner
  *  @version 1.0
  */
 public class Person3 {
