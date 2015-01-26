@@ -4,8 +4,8 @@ package edu.gatech.oad.antlab.person;
  *  returns their name and a
  *  reversed string 
  *  
- *  @author  Bob
- *  @version 1.1
+ *  @author  Jayden Gardiner
+ *  @version 1.0
  */
 public class Person3 {
    /** Holds the persons real name */  
@@ -47,6 +47,6 @@ public class Person3 {
         for (int i = input.length() - 1; i >= 0; i--) {
             output = output + input.charAt(i);
         }
-        return output;
+        return output + " ";
     }
 }
