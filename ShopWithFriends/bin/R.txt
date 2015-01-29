@@ -339,8 +339,9 @@ int id LOGIN_BUTTON_LOGIN 0x7f090041
 int id LOGIN_EDITTEXT_PASSWORD 0x7f090040
 int id LOGIN_EDITTEXT_USERNAME 0x7f09003f
 int id LOGIN_TEXTVIEW_INVALIDLOGIN 0x7f090044
-int id WELCOME_BUTTON_LOGIN 0x7f090045
-int id WELCOME_BUTTON_REGISTER 0x7f090046
+int id MAIN_IMAGEVIEW_DOGE 0x7f090045
+int id WELCOME_BUTTON_LOGIN 0x7f090046
+int id WELCOME_BUTTON_REGISTER 0x7f090047
 int id action_bar 0x7f090031
 int id action_bar_activity_content 0x7f090003
 int id action_bar_container 0x7f090030
@@ -354,7 +355,7 @@ int id action_menu_presenter 0x7f090006
 int id action_mode_bar 0x7f09002e
 int id action_mode_bar_stub 0x7f09002d
 int id action_mode_close_button 0x7f090020
-int id action_settings 0x7f090047
+int id action_settings 0x7f090048
 int id activity_chooser_view_content 0x7f090021
 int id always 0x7f090014
 int id beginning 0x7f09001b
