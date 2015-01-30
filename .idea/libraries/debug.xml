@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ShopWithFriends/app/build/intermediates/pre-dexed/debug/classes-6af830b983de1ebee534a8634ffa6018b4772d70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ShopWithFriends/app/build/intermediates/pre-dexed/debug/android-support-v4-8758b0d2119bf2f78ff2ea177890062260c1e149.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
