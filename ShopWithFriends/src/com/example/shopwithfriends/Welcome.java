@@ -1,5 +1,6 @@
 package com.example.shopwithfriends;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,6 +9,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
 
+@SuppressLint("ShowToast")
 public class Welcome extends Activity {
 
 	private final static int LOGIN_CODE = 100;
